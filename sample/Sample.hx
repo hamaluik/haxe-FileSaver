@@ -1,5 +1,3 @@
-package sample;
-
 import js.html.Element;
 import js.html.Blob;
 import js.html.FileSaver;
