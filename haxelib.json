@@ -6,6 +6,6 @@
   "description": "Haxe externs for the FileSaver.js library (for saving files from the browser).",
   "version": "1.0.0",
   "releasenote": "Initial release, everything is working correctly.",
-  "contributors": ["Kenton Hamaluik"],
+  "contributors": ["FuzzyWuzzie"],
   "dependencies": {}
 }
