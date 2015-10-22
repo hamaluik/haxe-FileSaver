@@ -1,0 +1,3 @@
+[submodule "sample/output/FileSaver"]
+	path = sample/output/FileSaver
+	url = git@github.com:eligrey/FileSaver.js.git
