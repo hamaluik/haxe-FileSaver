@@ -74,7 +74,8 @@ by Alfred Lord Tennyson
     Honor the charge they made!
     Honor the Light Brigade,
     Noble six hundred!
-			".trim()]);
+			".trim()],
+			{type: "text/markdown;charset=utf-8"});
 			FileSaver.saveAs(blob, "The Charge of the Light Brigade.md");
 		});
 	}
