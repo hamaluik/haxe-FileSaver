@@ -31,6 +31,7 @@ FileSaver.saveAs(blob:js.html.Blob, fileName:String, disableAutoBOM:Bool = false
 ```haxe
 var blob:js.html.Blob = new js.html.Blob(["Hello world!"], { type: "text/plain;charset=utf-8" });
 FileSaver.saveAs(blob, "hello world.txt");
+```
 
 ### Live Sample
 
