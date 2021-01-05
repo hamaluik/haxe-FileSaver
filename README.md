@@ -35,7 +35,7 @@ FileSaver.saveAs(blob, "hello world.txt");
 
 ### Live Sample
 
-A [live sample](http://FuzzyWuzzie.github.io/haxe-FileSaver/) is available, which provides you with a poem!
+A [live sample](http://hamaluik.github.io/haxe-FileSaver/) is available, which provides you with a poem!
 
 [1]: https://github.com/eligrey/Blob.js
 [2]: https://code.google.com/p/chromium/issues/detail?id=375297
